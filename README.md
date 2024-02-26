@@ -1,4 +1,6 @@
-https://alinesemog.github.io/dev-links/
+<p align="center">
+<a href=""https://alinesemog.github.io/dev-links/</a>
+</p>
 
 <h1 align="center"> DevLinks </h1>
 
